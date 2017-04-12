@@ -41,18 +41,19 @@ body{
 }
 section{
 width:100%;
-background-color:yellow;
+background-color:lightslategray;
 padding:10px;
 margin:10px;
 position:relative;
 border:2px solid black;
+	color: white;
 }
 .row{
 		width:100%;
 	}
 #chik{
 	text-align: center;
-	color: black;
+	color: white;
 }
 
 
